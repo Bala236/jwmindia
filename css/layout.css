@@ -38,12 +38,12 @@ body { background: #0f0f0f; }
 /* Header 
 /* ------------------------------------------------------------------ */
 header {   
-   height: 60px;
+   height: 80px;
    width: 100%; 
    position: relative;       
 }
 header #logo {	
-	width: 120px;	
+	width: 180px;	
 	margin-left: -60px;
 	text-align: center;
 	
